@@ -1,0 +1,18 @@
+2 June '23 - Tuesday EOD Updates
+
+> React Components & Connecting Components
+> Event Detail Page Using Dynamic Routes
+> Static Generation With getStaticProps
+> NextJS Pre-Renders
+> Server-side Code & Using the Filesystem
+> Incremental Static Generation (ISR)
+> getStaticProps & Configuration Options
+> getStaticPaths & Link Prefetching
+> Server-Side Rendering (SSR)
+> getServerSideProps For Server-Side Rendering
+> Dynamic Pages & getServerSideProps With Context
+> Client-Side Data Fetching
+> useSWR NextJS Hook
+> Optimizing Data Fetching
+
+Completed @
